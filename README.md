@@ -46,7 +46,7 @@ text
 5. **Access the System**
 Open your browser and navigate to: `http://localhost:8501`
 
-## 📦 Dependencies
+##Dependencies
 
 streamlit>=1.28.0
 pandas>=1.5.0
@@ -58,10 +58,7 @@ scikit-learn>=1.3.0
 numpy>=1.24.0
 sqlite3 (built-in)
 hashlib (built-in)
-
-text
-
-## 📁 Project Structure
+# Project Structure
 resume-relevance-checker/
 │
 ├── app.py # Main Streamlit application
