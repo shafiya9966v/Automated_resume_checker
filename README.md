@@ -202,6 +202,3 @@ For support or questions:
 - **Plotly** for interactive visualizations
 
 Ready to revolutionize your hiring process? Get started with the AI-Powered Resume Relevance Checker today!
-
-
-1. **Clone the Repository**
