@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+python-docx
+nltk
+fuzzywuzzy
+python-levenshtein
+openai
+pandas
+plotly
+scikit-learn
+numpy
